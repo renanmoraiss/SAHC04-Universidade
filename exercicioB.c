@@ -10,8 +10,6 @@ int main() {
     //
     if (Y >= 2010 && Y <= 2020) {
         calculo(Y);
-    } else {
-        printf("Valor invalido\n");
     }
     //
     return 0;

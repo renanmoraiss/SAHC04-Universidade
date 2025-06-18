@@ -10,8 +10,6 @@ int main() {
     //
     if (N >= 1 && N <= 1000) {
         soma(N);
-    } else {
-        printf("Valor invalido\n");
     }
     //
     return 0;
@@ -28,8 +26,6 @@ void soma(int numeroDeFilhos) {
         scanf("%d", &F);
         if (F >= 0 && F <= 1000) {
             soma += F;
-        } else {
-            printf("Valor invalido\n");
         }
     } printf("%d\n", soma);
 }
