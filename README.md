@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Aqui você encontrará a resolução de alguns dois exercícios propostos pelo Prof. Luiz Olmes</p>
+<p align="center">Aqui você encontrará a resolução de alguns exercícios propostos pelo Prof. Luiz Olmes</p>
 
 ###
 
